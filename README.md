@@ -1,2 +1,2 @@
-# OnlineShopping_ReactJS
-Online Shopping System using ReactJS
+# Online Shopping Cart_ReactJS
+Online Shopping System with Cart Functionality in ReactJS
